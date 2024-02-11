@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  etherscan_api:
+    build: .
+    container_name: etherscan_api_container
+    restart: always
+    volumes:
+      - ./etherscan_api.py:/app/etherscan_api.py
+    environment:
+      - PYTHONUNBUFFERED=1
