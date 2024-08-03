@@ -4,6 +4,10 @@
 
 This course will teach you how (and why) to make onchain analytics an essential part of your toolkit for web3 success. You will explore insights, query blockchain data, and learn how onchain insights can become your career (or earn you tokens on the side). By the end of the course, you will be equipped to find, create, and share valuable data insights that help your favorite web3 communities succeed.
 
+[Notion book](https://teamflipside.notion.site/Learn-Web3-Data-Course-c1f059aff1bb46e69f0089bd6c4cc9db?pvs=4) 
+[Extra resources](https://teamflipside.notion.site/Onchain-Insights-Resources-Learn-Web3-Data-Flipside-0565b847aa5a4abe818ab6d28aa307d0) 
+
+
 ## Course Outline
 
 1. **Introduction to Onchain Analytics**
