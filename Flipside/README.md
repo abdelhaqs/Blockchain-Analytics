@@ -46,8 +46,8 @@ This course will teach you how (and why) to make onchain analytics an essential 
 
 | Module                              | Completed | Slides   | Video | Notes                    |
 | ----------------------------------- | --------- | ----- | ----- | ------------------------ |
-| Introduction to Onchain Analytics   |    ✅      | [PDF](https://docs.google.com/presentation/d/1wGYUVY7GvgLCfvlNnboWVtiKz-P7rQJqWuRIa5Hs7L8)   | [Link](https://www.youtube.com/watch?v=IJnKkVc_b3w&t=2445s)   |                          |
-| Exploring Blockchain Data           |           | [PDF] | [Vid] |                          |
+| Introduction to Onchain Analytics   |           | [PDF](https://docs.google.com/presentation/d/1wGYUVY7GvgLCfvlNnboWVtiKz-P7rQJqWuRIa5Hs7L8)   | [Link](https://www.youtube.com/watch?v=IJnKkVc_b3w&t=2445s)   |                          |
+| Exploring Blockchain Data           |           | [PDF](https://docs.google.com/presentation/d/1CEj8dUb1UNZTMu2Lv-AdM2yQSjLQ-RRyiX_ZCChvo5A/) | [Link](https://www.youtube.com/watch?v=rX3uw49Gj0w) |                          |
 | Crafting Your First SQL Query       |           | [PDF] | [Vid] |                          |
 | Building Your First Dashboard       |           | [PDF] | [Vid] |                          |
 | Advancing Your Skills               |           | [PDF] | [Vid] |                          |
