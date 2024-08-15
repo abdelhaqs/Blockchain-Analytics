@@ -6,7 +6,7 @@ Welcome to my personal Blockchain Analytics Learning Repository!
 
 This repository is created for my personal learning journey in blockchain analytics. Here, I'll document my progress, store code snippets, and gather resources related to blockchain analytics.
 
-## Contents
+## Contents 
 
 - **Code Examples**: Explore code snippets and small projects related to blockchain analytics.
 - **Notes**: Document my insights, learnings, and observations as I delve into blockchain analytics.
