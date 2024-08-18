@@ -6,8 +6,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 ApiKeyToken = os.getenv("ApiKeyToken")
+
 address = "0xb65a2cbc549c08080b1d74137c4c9a5073d0fc73"
-# Define your API key
 
 url = "http://api.etherscan.io/api?module=account&action=txlist&address=" + address + \
       "&startblock=0&endblock=99999999&page=1&offset=10&sort=desc&apikey=" + ApiKeyToken
